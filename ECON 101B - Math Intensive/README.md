@@ -1,8 +1,6 @@
 # ECON 101B - Math Intensive
 A course taken in my sophomore year.
-
-### Table of Contents
-
+> See table of contents on main branch.
 
 ### Course Overview
 - Focus: Entire economic systems, covering economic growth, business cycles, unemployment, and inflation.
