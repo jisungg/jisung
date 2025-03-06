@@ -43,14 +43,25 @@ The chapters 00 - 06 cover the following:
    6. Lucas' Calculation on the Costs of the Business Cycle
 
 ### Table of Contents
-The [LaTeX document (00-06.pdf)](/ECON%20101B%20-%20Math%20Intensive//00%20-%2006//00-06.pdf) is an overview and review written by me in order to go over the concepts in lecture and the slides provided.
+The [LaTeX document (00-06.pdf)](/ECON%20101B%20-%20Math%20Intensive/00%20-%2006/Latex/00-06.pdf) is an overview and review written by me in order to go over the concepts in lecture and the slides provided.
 
-The following are the available notes provided, specifically focusing on the math-intensive sections of the class, per chapter written by Prof. Gorodnichenko:
-1. [Chapter 00 - Present Value Calculations](/ECON%20101B%20-%20Math%20Intensive/00%20-%2006/Note00_PresentValueCalculations.pdf)
-2. [Chapter 00 - Primer on Derivatives](/ECON%20101B%20-%20Math%20Intensive/00%20-%2006/Note00_PrimerOnDerivatives.pdf)
-3. [Chapter 01 - Consumption Theory](/ECON%20101B%20-%20Math%20Intensive/00%20-%2006/Note01_ConsumptionTheory.pdf)
-4. [Chapter 02 - Investment Theory](/ECON%20101B%20-%20Math%20Intensive/00%20-%2006/Note02_InvestmentTheory.pdf)
-5. [Chapter 03 - IS-LM Models](/ECON%20101B%20-%20Math%20Intensive/00%20-%2006/Note03_ISLM.pdf)
-6. [Chapter 04 - Aggregate Supply](/ECON%20101B%20-%20Math%20Intensive/00%20-%2006/Note04_AggregateSupply.pdf)
-7. [Chapter 05 - ASAD (Aggregate Supply & Aggregate Demand)](/ECON%20101B%20-%20Math%20Intensive/00%20-%2006/Note05_ASAD.pdf)
-8. [Chapter 06 - Policy Options](/ECON%20101B%20-%20Math%20Intensive/00%20-%2006/Note06_PolicyOptions.pdf)
+The following are the available notes provided, specifically focusing on the math-intensive sections of the class, per chapter written by Prof. Gorodnichenko (with no personal annotations):
+1. [Chapter 00 - Present Value Calculations](/ECON%20101B%20-%20Math%20Intensive/00%20-%2006/Notes/Note00_PresentValueCalculations.pdf)
+2. [Chapter 00 - Primer on Derivatives](/ECON%20101B%20-%20Math%20Intensive/00%20-%2006/Notes/Note00_PrimerOnDerivatives.pdf)
+3. [Chapter 01 - Consumption Theory](/ECON%20101B%20-%20Math%20Intensive/00%20-%2006/Notes/Note01_ConsumptionTheory.pdf)
+4. [Chapter 02 - Investment Theory](/ECON%20101B%20-%20Math%20Intensive/00%20-%2006/Notes/Note02_InvestmentTheory.pdf)
+5. [Chapter 03 - IS-LM Models](/ECON%20101B%20-%20Math%20Intensive/00%20-%2006/Notes/Note03_ISLM.pdf)
+6. [Chapter 04 - Aggregate Supply](/ECON%20101B%20-%20Math%20Intensive/00%20-%2006/Notes/Note04_AggregateSupply.pdf)
+7. [Chapter 05 - ASAD (Aggregate Supply & Aggregate Demand)](/ECON%20101B%20-%20Math%20Intensive/00%20-%2006/Notes/Note05_ASAD.pdf)
+8. [Chapter 06 - Policy Options](/ECON%20101B%20-%20Math%20Intensive/00%20-%2006/Notes/Note06_PolicyOptions.pdf)
+
+The following are notes I've personally hand-annotated, in order to understand the material deeper. The above notes are used as a template:
+1. [Chapter 00 - Present Value Calculations](/ECON%20101B%20-%20Math%20Intensive/00%20-%2006/Annotated/)
+2. [Chapter 00 - Primer on Derivatives](/ECON%20101B%20-%20Math%20Intensive/00%20-%2006/Notes/Note00_PrimerOnDerivatives.pdf)
+3. [Chapter 01 - Consumption Theory](/ECON%20101B%20-%20Math%20Intensive/00%20-%2006/Notes/Note01_ConsumptionTheory.pdf)
+4. [Chapter 02 - Investment Theory](/ECON%20101B%20-%20Math%20Intensive/00%20-%2006/Notes/Note02_InvestmentTheory.pdf)
+5. [Chapter 03 - IS-LM Models](/ECON%20101B%20-%20Math%20Intensive/00%20-%2006/Notes/Note03_ISLM.pdf)
+6. [Chapter 04 - Aggregate Supply](/ECON%20101B%20-%20Math%20Intensive/00%20-%2006/Notes/Note04_AggregateSupply.pdf)
+7. [Chapter 05 - ASAD (Aggregate Supply & Aggregate Demand)](/ECON%20101B%20-%20Math%20Intensive/00%20-%2006/Notes/Note05_ASAD.pdf)
+8. [Chapter 06 - Policy Options](/ECON%20101B%20-%20Math%20Intensive/00%20-%2006/Notes/Note06_PolicyOptions.pdf)
+9. [Handwritten Cheat Sheet (One-Pager)](/ECON%20101B%20-%20Math%20Intensive/00%20-%2006/Annotated/Handwritten%20Cheat%20Sheet.pdf)
